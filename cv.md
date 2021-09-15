@@ -50,3 +50,7 @@ String.prototype.toJadenCase = function () {
     * [Python Programming](https://stepik.org/cert/487819)
     * [Git](https://stepik.org/cert/868698)
     * [Linux](https://stepik.org/cert/919309)
+
+## English
+---
+**A2** (courses)
