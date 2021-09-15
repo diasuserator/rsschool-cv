@@ -1,1 +1,0 @@
-https://diasuserator.github.io/rsschool-cv/cv
